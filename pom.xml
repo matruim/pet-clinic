@@ -4,7 +4,7 @@
 
     <groupId>com.jaredgood</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -53,7 +53,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:matruim/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-0.0.3</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
