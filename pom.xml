@@ -52,7 +52,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:matruim/pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/matruim/pet-clinic.git</developerConnection>
       <tag>pet-clinic-0.0.1</tag>
   </scm>
 
